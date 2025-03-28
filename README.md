@@ -19,6 +19,13 @@ the goal is to examine the distrbution of popular content on youtube and compare
 steps taken : 1. loading the data 2. statistical analysis & data processing 3. data visualization .
 technologies used : python , pandas , matplotlib
 ----------------------------------------------------------------------------------
+project: Boston housing price
+
+calculates the correlation matrix and rounds values to two decimal places & display heatmap of corrlations between features.
+preparting the data for training : we split the dataset into features x and target variable y.
+training regression models & random forest regression .
+finally we compare the mse , rmse , mae , r2 , values for both models, this helps datermine which model performs better in predicting house prices.
+------------------------------------------------------------------------------------
 
 
 
